@@ -8,6 +8,9 @@ https://mlcorner.com/linear-regression-vs-decision-trees/
 Docker commands --->
 docker build -t [Name the images]
 docker run -it -p 8888:8888 [Name the images] --allow-root 
+
 The command above allow all computer on your network to access the container.
+
+
 Remember to place a password.
 https://jupyter-notebook.readthedocs.io/en/latest/public_server.html#securing-a-notebook-server
